@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HERO_WORKOUT</string>
+    <string name="dark_theme">DARK THEME</string>
+    <string name="light_theme">LIGHT THEME</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="einlogen">EINLOGEN</string>
+</resources>
